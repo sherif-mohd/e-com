@@ -227,6 +227,7 @@ section{
  }
  #home p{
  	text-align: center;
+	 padding: 10px 10px;
  }
 
  #home .input-group{
